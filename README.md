@@ -42,8 +42,8 @@ Developed a full-stack web app to detect and track scammer voiceprints:
 
 ---
 
-### **Penetration Testing Project – Logitech Device Exploit**
-*Kali Linux, Crazyradio USB Dongle*  
+### Penetration Testing Project – Logitech Device Exploit
+Kali Linux, Crazyradio USB Dongle  
 - Simulated wireless keystroke injection attacks against Logitech devices  
 - Produced a **12-page vulnerability report** with high-risk findings and mitigation steps  
 
