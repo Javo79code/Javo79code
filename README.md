@@ -63,7 +63,7 @@ Kali Linux, Crazyradio USB Dongle
 ## 📫 How to Reach Me
 📧 Email: [javokhirakh@gmail.com](mailto:javokhirakh@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/javokhir-akhmadjonov](https://www.linkedin.com/in/javokhir-akhmadjonov-8610142a6/)  
-🌐 Portfolio: [Your Portfolio Link Here]  
+🌐 Portfolio: [https://www.javokhirakhmadjonov.com/]  
 💻 GitHub: [github.com/Javo79code](https://github.com/Javo79code)
 
 
