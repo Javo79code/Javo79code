@@ -2,10 +2,10 @@
 🎓 Senior at St. John’s University majoring in Cybersecurity Systems (B.S.)  
 🔭 Aspiring Cybersecurity Analyst, Security Engineer, Software Engineer, and AI/ML Developer
 
-I’m passionate about solving real-world problems in **cybersecurity, software engineering, and AI/ML.  
+I’m passionate about solving real-world problems in cybersecurity, software engineering, and AI/ML.  
 I thrive on building secure, efficient solutions, whether it’s automating processes, visualizing live cyberattacks, or applying machine learning to detect threats.  
 
-I’ve gained hands-on experience through **industry internships**, **hackathon wins**, and academic projects — and I’m always looking for my next challenge.
+I’ve gained hands-on experience through industry internships, hackathon wins, and academic projects — and I’m always looking for my next challenge.
 
 ---
 
