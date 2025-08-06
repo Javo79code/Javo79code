@@ -11,7 +11,8 @@ I’ve gained hands-on experience through industry internships, hackathon wins, 
 
 ## 💼 Experience
 
-**Amazon – Data Engineering & AI/ML Extern (Remote)** *(Aug 2025 – Oct 2025)*  
+**Amazon – Data Engineering & AI/ML Extern (Remote)** *(Aug 2025 – Oct 2025)* 
+Operational Strategy & People Analytics Program, via Extern)
 - Improved analytics efficiency by **20%+** by building Python-based ETL pipelines with Pandas & NumPy  
 - Applied sentiment analysis & predictive modeling to workforce data for operational insights  
 - Designed Python & Tableau dashboards for machine learning–driven decision-making
