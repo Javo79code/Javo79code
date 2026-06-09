@@ -1,6 +1,6 @@
 # 👋 Hello Everyone, I'm Javo!
-🎓 Senior at St. John’s University majoring in Cybersecurity Systems (B.S.)  
-🔭 Aspiring Cybersecurity Analyst, Security Engineer, Software Engineer, and AI/ML Developer
+🎓 I graduated from St. John’s University majoring in Cybersecurity Systems (B.S.) May 2026 
+🔭 Aspiring Cybersecurity Analyst, Security Engineer, Software Engineer, or AI/ML Developer
 
 I’m passionate about solving real-world problems in cybersecurity, software engineering, and AI/ML.  
 I thrive on building secure, efficient solutions, whether it’s automating processes, visualizing live cyberattacks, or applying machine learning to detect threats.  
